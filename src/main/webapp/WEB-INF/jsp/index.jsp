@@ -15,7 +15,7 @@
     <div class="w3-row">
         <div class="w3-col m6 w3-center w3-padding-large">
             <p><b><i class="fa fa-user w3-margin-right"></i>My Name is Christian Zemetres</b></p><br>
-            <img src="/w3images/avatar_hat.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+
         </div>
 
         <!-- Hide this text on small devices -->
@@ -73,7 +73,7 @@
 
     <div class="w3-row w3-padding-32 w3-section">
         <div class="w3-col m4 w3-container">
-            <img src="/w3images/map.jpg" class="w3-image w3-round" style="width:100%">
+            <img src="../../../pub/images/15947c156a4d4f0fe510b900f53c4cbf.jpg" class="w3-image w3-round" style="width:100%">
         </div>
         <div class="w3-col m8 w3-panel">
             <div class="w3-large w3-margin-bottom">

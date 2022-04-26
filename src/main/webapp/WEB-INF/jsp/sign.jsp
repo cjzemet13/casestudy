@@ -1,5 +1,5 @@
 <jsp:include page="include/header.jsp"/>
-
+<body style = "font-weight: bolder;background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lastbestskiandpaddle.com%2F&psig=AOvVaw2o_YY0PXc5Lu-0BaNzpvgu&ust=1650751261044000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiiruzVqPcCFQAAAAAdAAAAABAY")"
 <h1 style="padding: 0px;">User Registration</h1>
 
 <form id="registrationForm" onsubmit="return validate()">

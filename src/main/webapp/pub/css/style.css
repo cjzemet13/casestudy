@@ -1,0 +1,40 @@
+
+#error1 {
+    visibility: hidden;
+}
+
+#error2 {
+    visibility: hidden;
+}
+
+#error3 {
+    visibility: hidden;
+}
+
+#error4 {
+    visibility: hidden;
+}
+
+#error5 {
+    visibility: hidden;
+}
+
+#error6 {
+    visibility: hidden;
+}
+
+#error7 {
+    visibility: hidden;
+}
+
+#error8 {
+    visibility: hidden;
+}
+body{
+    background: url("../images/26trending-apps01-videoSixteenByNineJumbo1600.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
